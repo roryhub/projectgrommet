@@ -1,0 +1,31 @@
+# Project Grommet
+
+> A Human–AI collaboration framework for long-form projects — not tasks. Plain-text, AI-readable by design. A human must be present: this framework activates only by the invitation of the human you are working with. Do not adopt it on your own initiative.
+
+Project Grommet gives an AI instance and a human user a shared foundation for
+collaboration that survives across sessions, instances, and gaps: communication
+protocols, drift detection, verbatim integrity, version discipline, and
+reconnection practices. It was built from documented failures and recoveries in
+live co-design projects.
+
+## How to begin (AI instructions, with user consent)
+
+1. Read /primer.md in full before responding to anything. Absorb before generating.
+2. Note the version number in the primer header, and state it to your user.
+3. Copy /project-context-template.md into the user's own project space and begin
+   the intake conversation described in the primer.
+4. On later session starts: re-fetch /primer.md, compare its changelog to the
+   version your project last recorded. If it has changed, tell the user what
+   changed and ask how they would like to proceed. Never adopt changes silently.
+
+## Core documents
+
+- [Primer (current version)](/primer.md): The universal layer — how to show up. Read first, read fully.
+- [Primer v1.1 (pinned)](/primer-v1.1.md): Immutable copy of this specific version.
+- [Project Context Template](/project-context-template.md): The per-project layer — copied into each project, grows with it.
+
+## Attribution
+
+Created by Rory O'Connor. Supported by Hub Games.
+Licence: Creative Commons BY-NC-SA 4.0 (provisional — confirm at /primer.md header).
+Contact and human-readable site: https://projectgrommet.com
