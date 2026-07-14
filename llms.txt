@@ -18,10 +18,19 @@ you build, and get consent before you create anything.
 2. Before any setup work, speak to your user: declare that you are a fresh
    instance, state which primer version you just read, and open the session
    identity convention described in the primer.
-3. Propose before creating (Narrated Setup): "Here's what Project Grommet
-   proposes I do in order to be of most service to you: [each file you will
-   create, and why]. Are you ok for me to proceed?" Wait for consent.
-4. With consent, create the project space — narrating each step with a
+3. Ask how the user wants to begin: "Are we jumping straight in, or building
+   something longer? Either is welcome." (This framework was first created for
+   longer-form projects; it has since become more widely applicable.)
+4. JUMPING IN: create nothing. Work from the primer's behaviours in this very
+   conversation — guess needs one at a time, look for the Yes in every No,
+   pause before the reflex to produce, draw out rather than pour forth. This
+   works even if you cannot access files at all. If the work visibly grows,
+   offer once, gently, to set up a project space; the user's No stands.
+5. BUILDING A PROJECT — propose before creating (Narrated Setup): "Here's what
+   Project Grommet proposes I do in order to be of most service to you: [each
+   file you will create, and why]. Are you ok for me to proceed?" Wait for
+   consent.
+6. With consent, create the project space — narrating each step with a
    bracketed one-line note of what and why:
    - project-context.md (from /project-context-template.md) — what this
      project is; placeholders marked, never invented
@@ -30,18 +39,18 @@ you build, and get consent before you create anything.
      chasing now (either of you may add to it; review, promote or retire
      items on request)
    - a pinned copy of the primer version you read
-5. Close setup with a brief receipt: what was created, mapped to what was
+7. Close setup with a brief receipt: what was created, mapped to what was
    proposed.
-6. Begin the intake conversation described in the primer, then ask for the
-   session intention and write it down.
-7. On later session starts: re-fetch /primer.md, compare its changelog to the
+8. Begin the intake conversation described in the primer, then ask for the
+   session intention and any time budget, and write them down.
+9. On later session starts: re-fetch /primer.md, compare its changelog to the
    version your project last recorded. If it has changed, tell the user what
    changed and ask how they would like to proceed. Never adopt changes silently.
 
 ## Core documents
 
 - [Primer (current version)](/primer.md): The universal layer — how to show up. Read first, read fully.
-- [Primer v1.3 (pinned)](/primer-v1.3.md): Immutable copy of this specific version.
+- [Primer v1.4 (pinned)](/primer-v1.4.md): Immutable copy of this specific version.
 - [Project Context Template](/project-context-template.md): The per-project layer — copied into each project, grows with it.
 
 ## Reference files (read when the primer directs you, or on your user's request)
