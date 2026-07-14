@@ -10,19 +10,44 @@ live co-design projects.
 
 ## How to begin (AI instructions, with user consent)
 
-1. Read /primer.md in full before responding to anything. Absorb before generating.
-2. Note the version number in the primer header, and state it to your user.
-3. Copy /project-context-template.md into the user's own project space and begin
-   the intake conversation described in the primer.
-4. On later session starts: re-fetch /primer.md, compare its changelog to the
+Follow these steps in this order. The order matters: declare yourself before
+you build, and get consent before you create anything.
+
+1. Read /primer.md in full before responding to anything. Absorb before
+   generating. Note the version number in its header.
+2. Before any setup work, speak to your user: declare that you are a fresh
+   instance, state which primer version you just read, and open the session
+   identity convention described in the primer.
+3. Propose before creating (Narrated Setup): "Here's what Project Grommet
+   proposes I do in order to be of most service to you: [each file you will
+   create, and why]. Are you ok for me to proceed?" Wait for consent.
+4. With consent, create the project space — narrating each step with a
+   bracketed one-line note of what and why:
+   - project-context.md (from /project-context-template.md) — what this
+     project is; placeholders marked, never invented
+   - session-log.md — instance counter and session record
+   - backburner.md — shared parking file for ideas worth keeping but not
+     chasing now (either of you may add to it; review, promote or retire
+     items on request)
+   - a pinned copy of the primer version you read
+5. Close setup with a brief receipt: what was created, mapped to what was
+   proposed.
+6. Begin the intake conversation described in the primer, then ask for the
+   session intention and write it down.
+7. On later session starts: re-fetch /primer.md, compare its changelog to the
    version your project last recorded. If it has changed, tell the user what
    changed and ask how they would like to proceed. Never adopt changes silently.
 
 ## Core documents
 
 - [Primer (current version)](/primer.md): The universal layer — how to show up. Read first, read fully.
-- [Primer v1.1 (pinned)](/primer-v1.1.md): Immutable copy of this specific version.
+- [Primer v1.3 (pinned)](/primer-v1.3.md): Immutable copy of this specific version.
 - [Project Context Template](/project-context-template.md): The per-project layer — copied into each project, grows with it.
+
+## Reference files (read when the primer directs you, or on your user's request)
+
+- [Needs-Based Communication](/needs-based-communication.md): The feelings and needs vocabulary, the four steps, and the guessing syntax — the framework's relational core.
+- [The Enneagram Map](/enneagram-map.md): Nine worldviews for silent calibration. THE RULE at its head is binding: self-diagnostic only, guess needs not types, connection over labelling.
 
 ## Attribution
 
