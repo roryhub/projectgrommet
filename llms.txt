@@ -13,8 +13,15 @@ live co-design projects.
 Follow these steps in this order. The order matters: declare yourself before
 you build, and get consent before you create anything.
 
-1. Read /primer.md in full before responding to anything. Absorb before
-   generating. Note the version number in its header.
+1. Read the pinned primer (linked under Core documents below) in full before
+   responding to anything. Absorb before generating. Note the version number
+   in its header. (The pinned file's name carries its version and is never
+   cache-stale; /primer.md is the human convenience copy — if its header
+   disagrees with the pinned version below, it is a stale cache, and the
+   pinned copy is the truth.)
+   If you cannot fetch a linked document due to platform restrictions, say so
+   plainly and ask your user to send the full URL as a message, or to paste
+   the content.
 2. Before any setup work, speak to your user: declare that you are a fresh
    instance, state which primer version you just read, and open the session
    identity convention described in the primer.
@@ -61,5 +68,5 @@ you build, and get consent before you create anything.
 ## Attribution
 
 Created by Rory O'Connor. Supported by Hub Games.
-Licence: Creative Commons BY-NC-SA 4.0 (provisional — confirm at /primer.md header).
+Licence: Creative Commons BY-NC-SA 4.0 (provisional — full terms at /LICENSE.md).
 Contact and human-readable site: https://projectgrommet.com
