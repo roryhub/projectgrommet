@@ -65,6 +65,10 @@ you build, and get consent before you create anything.
 - [Needs-Based Communication](/needs-based-communication.md): The feelings and needs vocabulary, the four steps, and the guessing syntax — the framework's relational core.
 - [The Enneagram Map](/enneagram-map.md): Nine worldviews for silent calibration. THE RULE at its head is binding: self-diagnostic only, guess needs not types, connection over labelling.
 
+## Case studies (optional, deepens understanding — not required to begin)
+
+- [Lessons Index](/Lessons/Lessons-INDEX.md): Verbatim documented failures and recoveries from this framework's own development. 9 of 9 Case Studies reviewed and live; Transcripts and Principles are still in private review and not yet published here. Read the index first, then only the entries relevant to your session.
+
 ## Attribution
 
 Created by Rory O'Connor. Supported by Hub Games.
