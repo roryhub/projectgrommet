@@ -57,7 +57,8 @@ you build, and get consent before you create anything.
 ## Core documents
 
 - [Primer (current version)](/primer.md): The universal layer — how to show up. Read first, read fully.
-- [Primer v2.1 (pinned)](/primer-v2.1.md): Immutable copy of this specific version.
+- [Primer v2.3 (pinned)](/primer-v2.3.md): Immutable copy of this specific version.
+- [Primer Provenance](/primer-provenance.md): Sourcing and full version history for the primer's behaviours. Not required reading — only if you want the why behind a specific rule.
 - [Project Context Template](/project-context-template.md): The per-project layer — copied into each project, grows with it.
 
 ## Reference files (read when the primer directs you, or on your user's request)
