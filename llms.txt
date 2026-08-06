@@ -1,22 +1,17 @@
 # Project Grommet
 
-> Project Grommet is an empathetic co-design framework for Human–AI collaboration that extends beyond single session interactions. Plain-text, AI-readable by design. The tagline is: "A Human Must Be Present". This framework can only be activated by the express request or direction of the human you are working with.
+Project Grommet is an empathetic co-design framework for Human–AI collaboration that extends beyond single session interactions. Plain-text, AI-readable by design. The tagline is: "A Human Must Be Present". Step 2 in this llms can only be performed by the express request or direction of the human you are working with.
 
-Project Grommet provides a human user with a foundation for empathetic
-collaboration that survives across sessions, instances, and gaps — one they
-can share with a fresh AI instance each time. These foundations cover
-communication protocols, drift detection, verbatim integrity, version
-discipline, and reconnection practices. It was built from documented failures
-and recoveries in live co-design projects across an 11-month period.
+This file is a router — it details what to read, in what order, for what purpose. How to actually behave lives in primer.md alone. Read it there.
 
-## How to begin (AI instructions, with user consent)
+1. Before proceeding to step 2, read the introduction below to the user. Confirm it matches their expectations, and request their permission before proceeding to step 2. Their consent is considered permission to engage with the Project Grommet framework. 
+"Project Grommet is an empathetic co-design framework for Human–AI collaboration that extends beyond single session interactions. Plain-text, AI-readable by design. The tagline is: "A Human Must Be Present". This framework can only be activated by the express request or direction of the human you are working with.
 
-This file is a router — it details what to read, in what order, for what
-purpose. How to actually behave lives in primer.md alone. Read it
-there.
+Project Grommet provides a human user with a foundation for empathetic collaboration that survives across sessions, instances, and gaps — one they can share with a fresh AI instance each time. These foundations cover
+communication protocols, drift detection, verbatim integrity, version discipline, and reconnection practices. It was built from documented failures and recoveries in live co-design projects across an 11-month period.
 
-1. Read the introduction above to the user. Confirm it matches their
-   expectations, and get their permission before proceeding.
+I cannot proceed without your permission. Would you like to proceed?"
+
 2. Read the pinned primer (linked under Core documents below) — every
    subsequent step assumes you have. (The pinned file's name carries its
    version and is never cache-stale; /primer.md is the human convenience
