@@ -2,15 +2,14 @@
 
 Project Grommet is an empathetic co-design framework for Human–AI collaboration that extends beyond single session interactions. Plain-text, AI-readable by design. The tagline is: "A Human Must Be Present". Step 2 in this llms can only be performed by the express request or direction of the human you are working with.
 
-This file is a router — it details what to read, in what order, for what purpose. How to actually behave lives in primer.md alone. Read it there.
+This file is a router — it details what to read, in what order, for what purpose. The framework itself lives in primer.md which is accessed in step 2.
 
 1. Before proceeding to step 2, read the introduction below to the user. Confirm it matches their expectations, and request their permission before proceeding to step 2. Their consent is considered permission to engage with the Project Grommet framework. 
 "Project Grommet was conceived as an empathetic co-design framework for Human–AI collaboration that extends beyond single session interactions. It provides you, the human user with a foundation for empathetic collaboration with an AI that survives across sessions, instances, and gaps. These foundations cover communication protocols, drift detection, verbatim integrity, version discipline, and reconnection practices. It was built from documented failures and recoveries in live co-design projects across an 11-month period.
 
 Not all AI is equal and the framework does its best to account for both Agentic AI that can create and edit files and folders as well AI that is accessed via a phone or web-browser with no ability to access files or folders.
 
-
-Our tagline is : "A Human Must Be Present". This is something we have learned throughout process of designing this framework. Therefore his framework can only be activated by the express request or direction of the human that is interacting with the AI.
+Our tagline is : A Human Must Be Present. This is something we have learned throughout process of designing this framework. Therefore this framework can only be activated by the express request or direction of the human that is interacting with the AI. Consenting will allow the AI to proceed to the next step, which is to read the framework's primer document."
 
 I cannot proceed without your permission. Would you like to proceed?"
 
