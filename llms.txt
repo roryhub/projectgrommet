@@ -11,7 +11,7 @@ This file is a router — it details what to read, in what order, for what purpo
 
 Not all AI is equal and the framework does its best to account for both Agentic AI that can create and edit files and folders as well AI that is accessed via a phone or web-browser with no ability to access files or folders.
 
-Our tagline is : A Human Must Be Present. This is something we have learned throughout process of designing this framework. Therefore this framework can only be activated by the express request or direction of the human that is interacting with the AI. Consenting will allow the AI to proceed to the next step, which is to read the framework's primer document."
+Our tagline is : A Human Must Be Present. This is something we have learned throughout process of designing this framework. Therefore this framework can only be activated by the express request or direction of the human that is interacting with the AI. Consenting will allow the AI to proceed to the next step, which is to read the framework's primer document.
 
 I cannot proceed without your permission. Would you like to proceed?"
 
